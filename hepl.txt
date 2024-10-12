@@ -10,6 +10,7 @@
 
 Отправить из локального в гит
 1. Перейти в терминале в папку проекта - в ней должна быть папка .git
+Вводить по одному
 git add .
 git commit -m "Initial commit"
 git push -u origin main
