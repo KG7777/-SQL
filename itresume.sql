@@ -39,11 +39,9 @@ ORDER BY
 month
 working
 non_working*/
-	
 	--Время выполнения: 0.105911 сек
-
 	-- Введите свое решение ниже. 
--- Вы работаете с PostgreSQL.
+	-- Вы работаете с PostgreSQL.
 SELECT
 	EXTRACT(MONTH
 FROM
@@ -60,3 +58,5 @@ FROM
 	date)
 ORDER BY
 	MONTH
+	--3.
+/*Задание
